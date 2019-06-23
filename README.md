@@ -1,5 +1,7 @@
 # QA Report Generator
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/clocklimited/qa-report.svg)](https://greenkeeper.io/)
+
 ![](https://cloud.githubusercontent.com/assets/367517/9138162/0ba5f124-3d1a-11e5-9f52-377b9029ed8e.gif)
 
 ## Install
