@@ -19,12 +19,12 @@
   "author": "Matthew Harrison-Jones <matt@matthojo.co.uk> (http://matthojo.co.uk/)",
   "license": "MIT",
   "dependencies": {
-    "async": "^1.4.0",
-    "chalk": "^1.1.0",
+    "async": "^3.1.0",
+    "chalk": "^2.4.2",
     "ghissues": "^1.1.1",
-    "inquirer": "^0.9.0",
-    "lodash.find": "^3.2.1",
+    "inquirer": "^6.4.1",
+    "lodash.find": "^4.6.0",
     "optimist": "^0.6.1",
-    "os-homedir": "^1.0.1"
+    "os-homedir": "^2.0.0"
   }
 }
